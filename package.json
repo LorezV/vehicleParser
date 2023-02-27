@@ -1,0 +1,14 @@
+{
+  "name": "cfxdefault_fcde12.base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.1.0"
+  }
+}
